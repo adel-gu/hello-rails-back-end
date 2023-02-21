@@ -106,7 +106,6 @@ Clone this repository to your desired folder:
 
 Install this project with:
 
-
 ```sh
   cd hello-rails-back-end
   bundle install
@@ -117,6 +116,7 @@ Install this project with:
 To run the project, execute the following command:
 
 ```sh
+  rails db:seed
   rails server
 ```
 
